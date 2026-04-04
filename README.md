@@ -31,5 +31,5 @@ The dashboard analyzes sales performance, customer purchasing behavior, product 
 
 # Project Purpose
 This project demonstrates practical data analysis, KPI tracking, and dashboard storytelling using Excel.
-<img width="1857" height="824" alt="image" src="https://github.com/user-attachments/assets/67158432-7b12-41b9-b753-b4e040965e91" />
+<img width="1852" height="787" alt="image" src="https://github.com/user-attachments/assets/8141164c-e692-4737-ac0f-3e78838bfcd8" />
 
